@@ -1,3 +1,5 @@
+## Hi, everyone 👋
+```python
 class Data:
     def __init__(self, name, email):
         self.name = name
@@ -11,3 +13,4 @@ class Data:
 data = Data('Ram Akasaka', 'ihell269@gmail.com')
 
 data.Data()
+```
