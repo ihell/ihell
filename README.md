@@ -1,16 +1,16 @@
 ## Hi, everyone 👋
 ```python
 class Data:
-    def __init__(self, name, email):
+    def __init__(self, name, pacar):
         self.name = name
-        self.email = email
+        self.pacar = pacar
 
     def Data(self):
         print('nama saya : ', self.name)
-        print('email saya : ', self.email)
+        print('pacar saya : ', self.pacar)
 
 
-data = Data('Ram Akasaka', 'ihell269@gmail.com')
+data = Data('Ram Akasaka', 'Ruka Sarashina')
 
 data.Data()
 ```
