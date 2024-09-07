@@ -3,7 +3,7 @@
 class Data:
     def __init__(self, name, gf):
         self.name = name
-        self.pacar = pacar
+        self.gf = gf
 
     def Data(self):
         print('my name : ', self.name)
