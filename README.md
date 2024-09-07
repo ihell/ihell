@@ -1,4 +1,4 @@
-## Hi, everyone 👋
+## Hi, NI**A 👋
 ```python
 class Data:
     def __init__(self, name, gf):
@@ -10,7 +10,7 @@ class Data:
         print('my gf : ', self.gf)
 
 
-data = Data('Ram Akasaka', 'Ruka Sarashina')
+data = Data('Ram Akasaka', 'Hana')
 
 data.Data()
 ```
