@@ -1,13 +1,13 @@
 ## Hi, everyone 👋
 ```python
 class Data:
-    def __init__(self, name, pacar):
+    def __init__(self, name, gf):
         self.name = name
         self.pacar = pacar
 
     def Data(self):
-        print('nama saya : ', self.name)
-        print('pacar saya : ', self.pacar)
+        print('my name : ', self.name)
+        print('my gf : ', self.gf)
 
 
 data = Data('Ram Akasaka', 'Ruka Sarashina')
