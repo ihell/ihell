@@ -1,5 +1,5 @@
 ## Hi, NI**A 👋
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/username)
+
 ```python
 class Data:
     def __init__(self, name, gf):
