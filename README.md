@@ -15,3 +15,4 @@ data = Data('Ram Akasaka', 'Hana')
 
 data.Data()
 ```
+github-user-contribution.svg
