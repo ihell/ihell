@@ -11,7 +11,7 @@ class Data:
         print('my gf : ', self.gf)
 
 
-data = Data('Ram Akasaka', 'Hana')
+data = Data('Ram Akasaka', 'Undefined')
 
 data.Data()
 ```
