@@ -16,5 +16,6 @@ data = Data('Ram Akasaka', 'Undefined')
 data.Data()
 ```
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%92%96-pink?style=for-the-badge)](https://github.com/sponsors/username)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%92%96%20Teer.id-pink?style=for-the-badge)](https://teer.id/hell_ios)
+
 
